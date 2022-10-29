@@ -1,0 +1,23 @@
+# File backups
+*.bak
+*.BAK
+*.save
+
+# Binaries
+bin/
+*.out
+
+# Anything temporary used in tmp/
+tmp/
+
+# Core dumps
+*.core
+
+# Object files
+*.o
+
+# Log files
+*.log
+
+# Don't use .gitkeep files to upload empty folders, the Makefile does everything for you.
+.gitkeep
